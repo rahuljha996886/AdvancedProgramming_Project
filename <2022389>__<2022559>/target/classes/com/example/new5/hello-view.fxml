@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="370.0" prefWidth="824.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="378.0" fitWidth="834.0" layoutX="-5.0" layoutY="1.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Screenshot%202023-11-19%20at%209.49.54%20AM.png" />
+         </image>
+      </ImageView>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="143.0" layoutX="69.0" layoutY="225.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="149.0" layoutX="206.0" layoutY="222.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="149.0" layoutX="386.0" layoutY="219.0" stroke="BLACK" strokeType="INSIDE" width="14.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="149.0" layoutX="529.0" layoutY="219.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="72.0" layoutX="116.0" layoutY="160.0" stroke="BLACK" strokeType="INSIDE" width="6.0" />
+      <ImageView fitHeight="117.0" fitWidth="118.0" layoutX="29.0" layoutY="127.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@herochar.png" />
+         </image>
+      </ImageView>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="RED" height="11.0" layoutX="547.0" layoutY="220.0" stroke="RED" strokeType="INSIDE" width="14.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="RED" height="11.0" layoutX="224.0" layoutY="226.0" stroke="RED" strokeType="INSIDE" width="14.0" />
+      <ImageView fitHeight="22.0" fitWidth="21.0" layoutX="508.0" layoutY="224.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Screenshot_2023-11-19_at_1.58.18_PM-removebg-preview.png" />
+         </image>
+      </ImageView>
+      <Circle fill="#ff536a" layoutX="393.0" layoutY="150.0" radius="36.0" stroke="#f51414" strokeType="INSIDE" />
+      <Text fill="WHITE" layoutX="377.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Play">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="21.0" fitWidth="32.0" layoutX="787.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Screenshot_2023-11-19_at_1.58.18_PM-removebg-preview.png" />
+         </image>
+      </ImageView>
+      <Text fill="WHITE" layoutX="767.0" layoutY="31.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Text>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aeaeae" height="38.0" layoutX="373.0" layoutY="15.0" opacity="0.6" stroke="BLACK" strokeDashOffset="100.0" strokeLineCap="ROUND" strokeLineJoin="ROUND" strokeMiterLimit="100.0" strokeType="INSIDE" strokeWidth="0.0" width="65.0" />
+      <Text fill="WHITE" layoutX="396.0" layoutY="44.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2" wrappingWidth="31.8603515625">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="22.0" fitWidth="21.0" layoutX="185.0" layoutY="224.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Screenshot_2023-11-19_at_1.58.18_PM-removebg-preview.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
